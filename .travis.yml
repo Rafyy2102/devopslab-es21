@@ -24,4 +24,4 @@ deploy:
   edge: true 
   app: devopslab-es21-rafyy
   on:
-      branch: main  
+    branch: main  
