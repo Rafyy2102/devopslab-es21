@@ -10,7 +10,7 @@ def pagina_inicial():
     return "Hello Rafyy2102"
 
     
-#PARA SIMULAR UM BUG
+#PARA SIMULAR UM DEBUG
 @app.route('/bug')                                                                                                                                
 def bad():                                                                                                                                        
     try:                                                                                                                                          
